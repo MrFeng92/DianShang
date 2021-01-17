@@ -1,0 +1,6 @@
+com\jt\manage\controller\ItemController.class
+com\jt\manage\controller\PageController.class
+com\jt\manage\controller\ItemCatController.class
+com\jt\manage\controller\PicUploadController.class
+com\jt\manage\controller\web\WebItemCatListController.class
+com\jt\manage\controller\web\WebItemController.class
